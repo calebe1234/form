@@ -1,0 +1,45 @@
+
+
+body{
+    background-image: url(.//img/c22966d94626ec04446a993153727e0a.jpg);
+    background-position: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+ 
+ forms {
+    font-family: initial;
+ }
+
+ textarea {
+    resize: none
+ }
+
+ fieldset {
+    width: 500px;
+ }
+
+.formularariocentral {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2,
+h3 {
+    font-family: Impact;
+}
+
+body {
+    text-align: center;
+}
+
+
